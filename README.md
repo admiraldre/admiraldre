@@ -9,6 +9,6 @@
 - 💬 Ask me about ...
 
 ### You can connect with me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-custom-URL/](https://www.linkedin.com/in/andrei-vivar/))
+<code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-custom-URL/](https://www.linkedin.com/in/andrei-vivar/))</code>
 
 
