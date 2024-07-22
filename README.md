@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Andrei+Vivar;An+aspiring+AI/ML+Engineer)](https://git.io/typing-svg)
+
+[![](https://visitcount.itsvg.in/api?id=admiraldre&label=Profile%20Views&color=4&icon=3&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **admiraldre/admiraldre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
