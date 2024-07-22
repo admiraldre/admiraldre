@@ -8,6 +8,7 @@
 - 🌱 I’m currently honing my skills in AI/Machine Learning/Deep Learning
 - 💬 Ask me about anything about Data!
 - Check out my [Portfolio](https://andreivivar.me/)
+- Contact me via my email: drevivar2001@gmail.com
 
 ### You can connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-vivar/)
