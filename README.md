@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently a 4th Year Software Engineering at Thompson Rivers University 
-- 🌱 I’m currently honing my skills in AI/Machine Learning/Deep Learning
+- 🌱 I’m currently honing my skills in Data Engineering
 - 💬 Ask me about anything about Data!
 - Check out my [Portfolio](https://andreivivar.me/)
 - Contact me via my email: drevivar2001@gmail.com
