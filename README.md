@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently a 4th Year Software Engineering at Thompson Rivers University 
+- 🔭 I’m currently a 5th Year Software Engineering at Thompson Rivers University 
 - 🌱 I’m currently honing my skills in Data Engineering
 - 💬 Ask me about anything about Data!
 - Check out my [Portfolio](https://andreivivar.me/)
