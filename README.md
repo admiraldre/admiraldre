@@ -6,7 +6,7 @@
 - 🌱 I’m currently honing my skills in Data Engineering, AI and Machine Learning
 - 💬 Ask me about anything about Data!
 - Check out my [Portfolio](https://andreivivar.me/)
-- Contact me via my email: drevivar2001@gmail.com
+- Contact me via my email: vivardre@gmail.com
 
 ### You can find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-vivar/)
