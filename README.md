@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Andrei+Vivar;An+aspiring+Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Andrei+Vivar;An+aspiring+ML+Engineer)](https://git.io/typing-svg)
 
 
 
 - 🔭 I’m currently a 5th Year Software Engineering at Thompson Rivers University 
-- 🌱 I’m currently honing my skills in Data Engineering, AI and Machine Learning
+- 🌱 I’m currently honing my skills in AI and Machine Learning
 - 💬 Ask me about anything about Data!
 - Check out my [Portfolio](https://andreivivar.me/)
 - Contact me via my email: vivardre@gmail.com
