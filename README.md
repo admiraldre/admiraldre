@@ -2,9 +2,7 @@
 
 
 
-- 🔭 I’m a recent Software Engineering Graduate at Thompson Rivers University 
-- 🌱 I’m currently honing my skills in AI and Machine Learning
-- 💬 Ask me about anything about Data!
+- 🔭 I’m a Software Engineering Graduate at Thompson Rivers University 
 - Check out my [Portfolio](https://andreivivar.me/)
 - Contact me via my email: vivardre@gmail.com
 
